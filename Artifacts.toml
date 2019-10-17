@@ -1,113 +1,113 @@
 [[hicolor_icon_theme]]
 arch = "x86_64"
-git-tree-sha1 = "e2000461afec004261b513ccabf9fcb906f74f47"
+git-tree-sha1 = "48b0414b06162da51802e1f389ac591eae67adbd"
 os = "macos"
 
     [[hicolor_icon_theme.download]]
-    sha256 = "52c47acd5d23595ddccf202b3b6f5aa87cfc9e977cb378fa01e7f45e8f8fe5fe"
-    url = "https://github.com/JuliaBinaryWrappers/hicolor_icon_theme_jll.jl/releases/download/hicolor_icon_theme-v0.17.0+0/hicolor_icon_theme.v0.17.0.x86_64-apple-darwin14.tar.gz"
+    sha256 = "899a512785dce3c8f5b0cbcf13a958bdb830b3ba849b396027095c51439cff0f"
+    url = "https://github.com/JuliaBinaryWrappers/hicolor_icon_theme_jll.jl/releases/download/hicolor_icon_theme-v0.17.0+1/hicolor_icon_theme.v0.17.0.x86_64-apple-darwin14.tar.gz"
 [[hicolor_icon_theme]]
 arch = "i686"
-git-tree-sha1 = "9536da5c7b4947d09be759361406ae5a8c236d44"
+git-tree-sha1 = "264381d6baefb65d8ea3cda6008754126359bb6e"
 libc = "glibc"
 os = "linux"
 
     [[hicolor_icon_theme.download]]
-    sha256 = "199955f5229b183aae5ff9d6addcba781e28758f0b91b5dc590fdc72a2543d59"
-    url = "https://github.com/JuliaBinaryWrappers/hicolor_icon_theme_jll.jl/releases/download/hicolor_icon_theme-v0.17.0+0/hicolor_icon_theme.v0.17.0.i686-linux-gnu.tar.gz"
+    sha256 = "070f7c240615ba084391196a90ab4893f4653517200a12ae16d84d9cf5c23717"
+    url = "https://github.com/JuliaBinaryWrappers/hicolor_icon_theme_jll.jl/releases/download/hicolor_icon_theme-v0.17.0+1/hicolor_icon_theme.v0.17.0.i686-linux-gnu.tar.gz"
 [[hicolor_icon_theme]]
 arch = "x86_64"
-git-tree-sha1 = "9644c595a05ae8c54f6b0efb59677573e3be2660"
+git-tree-sha1 = "1d903f4553bd3e877d69f522aba1c57fd4f87289"
 os = "freebsd"
 
     [[hicolor_icon_theme.download]]
-    sha256 = "5280ace5095fb86c5635d59a3dcc11f041c9deb680087d55c734ca6852c39e27"
-    url = "https://github.com/JuliaBinaryWrappers/hicolor_icon_theme_jll.jl/releases/download/hicolor_icon_theme-v0.17.0+0/hicolor_icon_theme.v0.17.0.x86_64-unknown-freebsd11.1.tar.gz"
+    sha256 = "5913a13a0cbcb8f2f606139248e20e6ef21df958c3c44c885f0772ce734d5a2b"
+    url = "https://github.com/JuliaBinaryWrappers/hicolor_icon_theme_jll.jl/releases/download/hicolor_icon_theme-v0.17.0+1/hicolor_icon_theme.v0.17.0.x86_64-unknown-freebsd11.1.tar.gz"
 [[hicolor_icon_theme]]
 arch = "powerpc64le"
-git-tree-sha1 = "ef30c43ffb92a454e6ab3a1b7b4cfd361c5653f2"
+git-tree-sha1 = "74a616e594dcbbb6294d1da4761faefd9733e6b0"
 libc = "glibc"
 os = "linux"
 
     [[hicolor_icon_theme.download]]
-    sha256 = "f3dfd92f076b89ff8a37832b21941b9063ace40186ce65f18a908d47028612b6"
-    url = "https://github.com/JuliaBinaryWrappers/hicolor_icon_theme_jll.jl/releases/download/hicolor_icon_theme-v0.17.0+0/hicolor_icon_theme.v0.17.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "08f5daab6bca1f30a957459c56a29073771522259b67d551a726b11f55fce280"
+    url = "https://github.com/JuliaBinaryWrappers/hicolor_icon_theme_jll.jl/releases/download/hicolor_icon_theme-v0.17.0+1/hicolor_icon_theme.v0.17.0.powerpc64le-linux-gnu.tar.gz"
 [[hicolor_icon_theme]]
 arch = "x86_64"
-git-tree-sha1 = "189ae0b493cee6fb81d7d0693496f65b33257585"
+git-tree-sha1 = "dce712ca4bf9a7bbea0635183fcdb602825e8275"
 libc = "musl"
 os = "linux"
 
     [[hicolor_icon_theme.download]]
-    sha256 = "16b0a27b1d5819be68803f7d824632fc8740814df951b0629ecf64f0f3c63a2a"
-    url = "https://github.com/JuliaBinaryWrappers/hicolor_icon_theme_jll.jl/releases/download/hicolor_icon_theme-v0.17.0+0/hicolor_icon_theme.v0.17.0.x86_64-linux-musl.tar.gz"
+    sha256 = "fc0b1887a92096888d521a8bcf47334275ed98bd40edcfe3d9b971dbf26ba9bb"
+    url = "https://github.com/JuliaBinaryWrappers/hicolor_icon_theme_jll.jl/releases/download/hicolor_icon_theme-v0.17.0+1/hicolor_icon_theme.v0.17.0.x86_64-linux-musl.tar.gz"
 [[hicolor_icon_theme]]
 arch = "x86_64"
-git-tree-sha1 = "c5d02a7d64e2d5d850bb5920f34a3fe388a68186"
+git-tree-sha1 = "3e4e9a264ff818fdc52626ae4b3e478bc09d7b04"
 libc = "glibc"
 os = "linux"
 
     [[hicolor_icon_theme.download]]
-    sha256 = "2fb5eb9ad2672413da7f78d19da68fabc9b911c740430437993d7ccfd621d965"
-    url = "https://github.com/JuliaBinaryWrappers/hicolor_icon_theme_jll.jl/releases/download/hicolor_icon_theme-v0.17.0+0/hicolor_icon_theme.v0.17.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "9571ca8f24685efd78eda226360ff6b63e5fb96e64728922649ba3551de0d82e"
+    url = "https://github.com/JuliaBinaryWrappers/hicolor_icon_theme_jll.jl/releases/download/hicolor_icon_theme-v0.17.0+1/hicolor_icon_theme.v0.17.0.x86_64-linux-gnu.tar.gz"
 [[hicolor_icon_theme]]
 arch = "x86_64"
-git-tree-sha1 = "af76e73d9c9474c049e5c4ada4726ddd0d7c9afa"
+git-tree-sha1 = "e5ebfe8dc1637f732d5054c273baad18326459f4"
 os = "windows"
 
     [[hicolor_icon_theme.download]]
-    sha256 = "3ebe603eebb87421ddfd041bc5ebda076b0e6899fa209768bc0b6e0a42188d16"
-    url = "https://github.com/JuliaBinaryWrappers/hicolor_icon_theme_jll.jl/releases/download/hicolor_icon_theme-v0.17.0+0/hicolor_icon_theme.v0.17.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "8010d21dd33f5f7d87bef4b77593acd6a2ce88580863d1daf1cf69fc89dd5084"
+    url = "https://github.com/JuliaBinaryWrappers/hicolor_icon_theme_jll.jl/releases/download/hicolor_icon_theme-v0.17.0+1/hicolor_icon_theme.v0.17.0.x86_64-w64-mingw32.tar.gz"
 [[hicolor_icon_theme]]
 arch = "aarch64"
-git-tree-sha1 = "a40780f1439a0d092571ee80b3c44c35227cac8c"
+git-tree-sha1 = "db85e0c3e2c59f5889f2e0f92faa965f1af8f10d"
 libc = "musl"
 os = "linux"
 
     [[hicolor_icon_theme.download]]
-    sha256 = "356395411006f9eddad03abc287f9a113160b95255cbaad803ee0bb4ab34d0ce"
-    url = "https://github.com/JuliaBinaryWrappers/hicolor_icon_theme_jll.jl/releases/download/hicolor_icon_theme-v0.17.0+0/hicolor_icon_theme.v0.17.0.aarch64-linux-musl.tar.gz"
+    sha256 = "fc627ea23d9413e0adedfc46e18c487b8fb539b40590c78db87c7bd10ef194a6"
+    url = "https://github.com/JuliaBinaryWrappers/hicolor_icon_theme_jll.jl/releases/download/hicolor_icon_theme-v0.17.0+1/hicolor_icon_theme.v0.17.0.aarch64-linux-musl.tar.gz"
 [[hicolor_icon_theme]]
 arch = "armv7l"
-git-tree-sha1 = "b30e8130c26b79406a0e75b7da3db5718adc16d7"
+git-tree-sha1 = "64b5449413ba8008622479721e4881a61111716c"
 libc = "glibc"
 os = "linux"
 
     [[hicolor_icon_theme.download]]
-    sha256 = "13bc765344ca7f9ff839819b5f8a20b5854ab00536feab39e83ed0805277082e"
-    url = "https://github.com/JuliaBinaryWrappers/hicolor_icon_theme_jll.jl/releases/download/hicolor_icon_theme-v0.17.0+0/hicolor_icon_theme.v0.17.0.arm-linux-gnueabihf.tar.gz"
+    sha256 = "02fe4378a243b993e37197758037889fe894bd1f0f552f4dbc93eda84f9da9ea"
+    url = "https://github.com/JuliaBinaryWrappers/hicolor_icon_theme_jll.jl/releases/download/hicolor_icon_theme-v0.17.0+1/hicolor_icon_theme.v0.17.0.arm-linux-gnueabihf.tar.gz"
 [[hicolor_icon_theme]]
 arch = "i686"
-git-tree-sha1 = "ca6023d23fe56d5f6b4af8052b66f35fc6604155"
+git-tree-sha1 = "658de5dc396e498413566fb3f11b2173523da7ec"
 libc = "musl"
 os = "linux"
 
     [[hicolor_icon_theme.download]]
-    sha256 = "8aab7e85a5b47f614c43460768e4d9ced736e45b574fda9f4f8b013c132d8510"
-    url = "https://github.com/JuliaBinaryWrappers/hicolor_icon_theme_jll.jl/releases/download/hicolor_icon_theme-v0.17.0+0/hicolor_icon_theme.v0.17.0.i686-linux-musl.tar.gz"
+    sha256 = "2193b4deaaf6c0b45d15e4eaf179032be10518e691ac8e0fdc7ddb942010c884"
+    url = "https://github.com/JuliaBinaryWrappers/hicolor_icon_theme_jll.jl/releases/download/hicolor_icon_theme-v0.17.0+1/hicolor_icon_theme.v0.17.0.i686-linux-musl.tar.gz"
 [[hicolor_icon_theme]]
 arch = "armv7l"
-git-tree-sha1 = "95d4ad9619d401aa2fa7098f0796e2b83ee625bc"
+git-tree-sha1 = "46988c7a6f4a90663d0c2ac341ff55d51e940cf8"
 libc = "musl"
 os = "linux"
 
     [[hicolor_icon_theme.download]]
-    sha256 = "6f01b81493029feec06ebb2472e2d0bc4834340c4488cfef8cf92aa53dc32017"
-    url = "https://github.com/JuliaBinaryWrappers/hicolor_icon_theme_jll.jl/releases/download/hicolor_icon_theme-v0.17.0+0/hicolor_icon_theme.v0.17.0.arm-linux-musleabihf.tar.gz"
+    sha256 = "947764fa2d57bd39a61e429e576c8c88a7321508314295383af1534d666edf9c"
+    url = "https://github.com/JuliaBinaryWrappers/hicolor_icon_theme_jll.jl/releases/download/hicolor_icon_theme-v0.17.0+1/hicolor_icon_theme.v0.17.0.arm-linux-musleabihf.tar.gz"
 [[hicolor_icon_theme]]
 arch = "aarch64"
-git-tree-sha1 = "fdadd20bf4ba9f76d1d689b6ffac893403530dd7"
+git-tree-sha1 = "cfe7d666e6f4f92cdac35ea96e5b80cf5b7b5f2c"
 libc = "glibc"
 os = "linux"
 
     [[hicolor_icon_theme.download]]
-    sha256 = "0b4b159a02f43cdc4835a0edfee670c01a159ac54fcaf21e0fe2afbba31113aa"
-    url = "https://github.com/JuliaBinaryWrappers/hicolor_icon_theme_jll.jl/releases/download/hicolor_icon_theme-v0.17.0+0/hicolor_icon_theme.v0.17.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "f487aacada602606f20d644b6e8d0abdb8403502d7a09ab8c3122efee944f154"
+    url = "https://github.com/JuliaBinaryWrappers/hicolor_icon_theme_jll.jl/releases/download/hicolor_icon_theme-v0.17.0+1/hicolor_icon_theme.v0.17.0.aarch64-linux-gnu.tar.gz"
 [[hicolor_icon_theme]]
 arch = "i686"
-git-tree-sha1 = "143eff6875c14f0ccdba196b1bcf2800570a2310"
+git-tree-sha1 = "ff8697644fcb07f5d47eaca9c75e164247e5ce88"
 os = "windows"
 
     [[hicolor_icon_theme.download]]
-    sha256 = "63bf2cc617bec73f259c3c5fde85803102c356fdf3643ce3a2e619df468a3e93"
-    url = "https://github.com/JuliaBinaryWrappers/hicolor_icon_theme_jll.jl/releases/download/hicolor_icon_theme-v0.17.0+0/hicolor_icon_theme.v0.17.0.i686-w64-mingw32.tar.gz"
+    sha256 = "794a10c31ad2da14c6467dd0686b905dd98d9597a74ab5d396e45459b325bb79"
+    url = "https://github.com/JuliaBinaryWrappers/hicolor_icon_theme_jll.jl/releases/download/hicolor_icon_theme-v0.17.0+1/hicolor_icon_theme.v0.17.0.i686-w64-mingw32.tar.gz"
